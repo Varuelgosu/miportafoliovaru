@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/miportafoliovaru/static/css/main.0b439dcc.css",
+    "main.js": "/miportafoliovaru/static/js/main.8a219b0c.js",
+    "index.html": "/miportafoliovaru/index.html",
+    "main.0b439dcc.css.map": "/miportafoliovaru/static/css/main.0b439dcc.css.map",
+    "main.8a219b0c.js.map": "/miportafoliovaru/static/js/main.8a219b0c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b439dcc.css",
+    "static/js/main.8a219b0c.js"
+  ]
+}
