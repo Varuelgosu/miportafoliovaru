@@ -1,6 +1,6 @@
 # Semana 1 — Fundamentos de la Tecnología Web
 
-## 🧠 Temas aprendidos y temas acordados
+##  Temas aprendidos y temas acordados
 
 ### Requisitos y Recursos Tecnológicos de la Asignatura
 - Uso de **Microsoft Teams**, **WhatsApp**, y **GitHub** con sitio web publicado (Portafolio electrónico).
@@ -63,7 +63,7 @@
 
 ---
 
-## 🧪 Ejercicios de laboratorio
+##  Ejercicios de laboratorio
 
 **Práctica de Laboratorio 01: Manejo de Visual Studio Code**
 1. Reconocimiento del entorno de VSC.  
@@ -78,7 +78,7 @@
 
 ---
 
-## 💭 Reflexión
+##  Reflexión
 
 **¿Qué aprendí?**  
 Aprendí los fundamentos de la tecnología web, sus estándares internacionales y la diferencia entre frontend y backend.  

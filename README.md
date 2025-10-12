@@ -30,7 +30,7 @@ Si deseas ver este portafolio en tu computadora:
 
 ---
 
-## 📁 Estructura General
+##  Estructura General
 
 ```
 miportafoliovaru/

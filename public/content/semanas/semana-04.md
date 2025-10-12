@@ -1,6 +1,6 @@
-# 🧾 Semana 4 — JavaScript y TypeScript: Programación Dinámica para la Web
+#  Semana 4 — JavaScript y TypeScript: Programación Dinámica para la Web
 
-## 🧠 Temas aprendidos
+##  Temas aprendidos
 
 Durante la **Semana 4** concluyeron las exposiciones de los grupos, con las presentaciones del **Grupo 5** y el **Grupo 6**, que abordaron temas clave del desarrollo web moderno:  
 - **JavaScript Básico** (Grupo 5)  
@@ -10,7 +10,7 @@ Estas exposiciones marcaron el paso de la estructura estática (HTML y CSS) haci
 
 ---
 
-## ⚙️ JavaScript Básico — Grupo 5
+##  JavaScript Básico — Grupo 5
 
 El **Grupo 5** presentó los fundamentos del lenguaje JavaScript, explicando cómo permite agregar lógica, interactividad y control sobre los elementos HTML.
 
@@ -112,7 +112,7 @@ El uso de console.log() y debugger facilita el seguimiento del flujo del código
 
 ---
 
-## 🚀 JavaScript Avanzado — Grupo 6
+##  JavaScript Avanzado — Grupo 6
 
 El Grupo 6 profundizó en las características avanzadas de JavaScript moderno (ES6+), abordando temas como POO, asincronía, API y optimización.
 
@@ -203,7 +203,7 @@ Permiten ejecutar tareas pesadas en segundo plano, sin bloquear la interfaz prin
 
 ---
 
-## 💎 TypeScript — Grupo 6
+##  TypeScript — Grupo 6
 
 El mismo grupo también explicó TypeScript, un superconjunto de JavaScript que agrega tipado estático y mejora la mantenibilidad del código.
 
@@ -307,7 +307,7 @@ TypeScript se usa ampliamente con React, Angular y Vue, ofreciendo mayor robuste
 
 ---
 
-## 🧩 Habilidades desarrolladas
+##  Habilidades desarrolladas
 
 - Comprensión del funcionamiento interno de JavaScript.
 - Creación de páginas interactivas y dinámicas.
@@ -318,7 +318,7 @@ TypeScript se usa ampliamente con React, Angular y Vue, ofreciendo mayor robuste
 
 ---
 
-## 🧪 Ejercicios y prácticas realizadas
+##  Ejercicios y prácticas realizadas
 
 Durante las exposiciones, se realizaron ejemplos en vivo y prácticas como:
 
@@ -331,7 +331,7 @@ Durante las exposiciones, se realizaron ejemplos en vivo y prácticas como:
 
 ---
 
-## 💭 Reflexión
+##  Reflexión
 
 **¿Qué aprendí?**  
 Aprendí a dar vida a las páginas web utilizando JavaScript y a estructurar código más limpio y seguro con TypeScript.  
@@ -343,8 +343,3 @@ La combinación entre teoría y práctica permitió entender no solo cómo funci
 
 ---
 
-## 🧩 Conclusión
-
-La Semana 4 cerró el ciclo de exposiciones abordando el corazón de la programación web moderna.  
-Los grupos 5 y 6 mostraron cómo JavaScript y TypeScript permiten crear experiencias interactivas, escalables y eficientes.  
-Esta semana consolidó la transición desde el diseño visual hacia la lógica y programación real, sentando las bases para el desarrollo de aplicaciones completas.

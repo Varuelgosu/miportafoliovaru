@@ -1,6 +1,6 @@
-# 🧾 Semana 5 — Práctica Colaborativa y Introducción a React.js
+#  Semana 5 — Práctica Colaborativa y Introducción a React.js
 
-## 🧠 Temas aprendidos
+##  Temas aprendidos
 
 Durante la **Semana 5** se combinaron actividades prácticas y teóricas que marcaron el inicio del desarrollo de **aplicaciones web interactivas** con frameworks modernos.
 
@@ -9,11 +9,11 @@ Durante la **Semana 5** se combinaron actividades prácticas y teóricas que mar
 
 ---
 
-## 💻 Práctica Colaborativa — Práctica Calificada 3
+##  Práctica Colaborativa — Práctica Calificada 3
 
-👥 **Modalidad:** Equipos de 3 integrantes  
+ **Modalidad:** Equipos de 3 integrantes  
 
-### 🎯 Objetivo
+###  Objetivo
 
 Desarrollar una **aplicación web interactiva tipo aula virtual** con funcionalidades de:
 - **Ruleta aleatoria**
@@ -76,7 +76,7 @@ Todo debía realizarse con **HTML, CSS y JavaScript puro**, sin librerías exter
 
 ---
 
-## 🧠 Habilidades fortalecidas
+##  Habilidades fortalecidas
 
 - Trabajo en equipo con Git y GitHub.
 - Uso avanzado de JavaScript (DOM, eventos, animaciones, almacenamiento local).
@@ -86,9 +86,9 @@ Todo debía realizarse con **HTML, CSS y JavaScript puro**, sin librerías exter
 
 ---
 
-## ⚛️ Introducción a React.js
+##  Introducción a React.js
 
-📘 Fuente: Mg. Jaime Suasnabar Terrel
+ Fuente: Mg. Jaime Suasnabar Terrel
 
 Después de la práctica, se inició la introducción al framework React.js, el más utilizado actualmente para construir interfaces dinámicas.
 
@@ -223,7 +223,7 @@ function Contador() {
 
 ---
 
-## 🧩 Habilidades desarrolladas
+##  Habilidades desarrolladas
 
 - Colaboración avanzada con GitHub y control de versiones.
 - Dominio de HTML, CSS y JavaScript para proyectos dinámicos.
@@ -234,7 +234,7 @@ function Contador() {
 
 ---
 
-## 💭 Reflexión
+##  Reflexión
 
 **¿Qué aprendí?**  
 Aprendí a trabajar con código colaborativo y aplicar lógica avanzada en JavaScript.  
@@ -247,7 +247,3 @@ El aprendizaje fue tanto técnico como conceptual, combinando lógica, estructur
 
 ---
 
-## 🧩 Conclusión
-
-La Semana 5 marcó la transición entre el desarrollo tradicional con HTML, CSS y JavaScript, hacia el uso de frameworks modernos como React.js.  
-Los estudiantes reforzaron sus habilidades en trabajo colaborativo y adquirieron los conocimientos fundamentales para comenzar a construir interfaces dinámicas e interactivas.

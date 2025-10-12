@@ -1,6 +1,6 @@
 # Semana 2 — Estructura y Estilos en la Web
 
-## 🧠 Temas aprendidos
+##  Temas aprendidos
 
 Durante esta semana se realizaron **exposiciones por grupos** sobre los temas fundamentales del desarrollo web.  
 Los **grupos 1 y 2** expusieron temas de **HTML (básico y avanzado)**, mientras que los **grupos 3 y 4** abordaron **CSS (básico y avanzado)** y **Bootstrap**.
@@ -9,13 +9,13 @@ Las exposiciones combinaron teoría, práctica y demostraciones en código real.
 
 ---
 
-## 📘 HTML Básico
+##  HTML Básico
 
 El **HTML (HyperText Markup Language)** es el lenguaje que define la estructura del contenido de una página web.
  
 ![Imagen6](/miportafoliovaru/content/images/semanas/imagen6.png)
 
-### 🔹 Estructura básica de un documento HTML
+###  Estructura básica de un documento HTML
 ```html
 <!DOCTYPE html>
 <html lang="es">
@@ -95,7 +95,7 @@ Podemos cambiar la forma en que se muestra el texto con etiquetas de formato:
 
 ---
 
-## 🚀 HTML Avanzado
+##  HTML Avanzado
 
 Los grupos explicaron también funcionalidades avanzadas de HTML5, esenciales para construir aplicaciones modernas.
 
@@ -150,7 +150,7 @@ Los grupos explicaron también funcionalidades avanzadas de HTML5, esenciales pa
 
 ---
 
-## 🎨 CSS Básico
+##  CSS Básico
 
 Los grupos siguientes presentaron hojas de estilo en cascada (CSS), encargadas de dar forma y color a la estructura HTML.
 
@@ -194,7 +194,7 @@ También se abordaron los tipos de posicionamiento: static, relative, absolute, 
 
 ---
 
-## 💎 CSS Avanzado
+##  CSS Avanzado
 
 Los temas avanzados incluyeron propiedades modernas, diseño flexible y efectos visuales.
 
@@ -235,7 +235,7 @@ Los temas avanzados incluyeron propiedades modernas, diseño flexible y efectos 
 
 ---
 
-## 💠 Bootstrap y Tailwind CSS
+##  Bootstrap y Tailwind CSS
 
 El Grupo 4 expuso sobre Bootstrap y Tailwind, frameworks que facilitan el diseño responsivo y moderno.
 
@@ -269,7 +269,7 @@ Estos frameworks permiten desarrollar interfaces modernas sin escribir tanto CSS
 
 ---
 
-## 🧪 Ejercicios de laboratorio
+##  Ejercicios de laboratorio
 
 Durante esta semana se realizaron prácticas como:
 
@@ -310,7 +310,7 @@ Durante esta semana se realizaron prácticas como:
 
 ---
 
-## 💭 Reflexión
+##  Reflexión
 
 **¿Qué aprendí?**  
 Aprendí los fundamentos de la estructura y diseño web. Comprendí cómo HTML organiza el contenido y cómo CSS define su presentación.  
