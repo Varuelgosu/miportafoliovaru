@@ -7,17 +7,25 @@ function ReflexionFinal() {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    fetch('/content/reflexion-final.md')
-      .then((response) => response.text())
-      .then((text) => {
+    const fetchContent = async () => {
+      try {
+        const response = await fetch(`${process.env.PUBLIC_URL}/content/reflexion-final.md`);
+        
+        if (!response.ok) {
+          throw new Error('Archivo no encontrado');
+        }
+        
+        const text = await response.text();
         setContent(text);
         setLoading(false);
-      })
-      .catch((error) => {
+      } catch (error) {
         console.error('Error al cargar el archivo:', error);
-        setContent('# Error al cargar el contenido');
+        setContent('# Error al cargar el contenido\n\nNo se pudo encontrar el archivo `reflexion-final.md` en `public/content/`');
         setLoading(false);
-      });
+      }
+    };
+
+    fetchContent();
   }, []);
 
   if (loading) {

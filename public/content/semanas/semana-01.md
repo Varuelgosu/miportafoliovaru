@@ -6,7 +6,7 @@
 - Uso de **Microsoft Teams**, **WhatsApp**, y **GitHub** con sitio web publicado (Portafolio electrónico).
 - Responsabilidad del estudiante: entregar laboratorios y exámenes a tiempo, trabajar en grupo y disponer de laptop e internet propio.
 
-![Imagen1](${process.env.PUBLIC_URL}/content/images/semanas/imagen1.png)
+![Imagen1](/miportafoliovaru/content/images/semanas/imagen1.png)
 
 ### Portafolio Electrónico
 - Crear un sitio web en **GitHub Pages** para documentar el aprendizaje.
@@ -17,7 +17,7 @@
   - Cuaderno (Semana 1 → 16)
   - Reflexión final y bibliografía.
 
-![Imagen2](${process.env.PUBLIC_URL}/content/images/semanas/imagen2.png)
+![Imagen2](/miportafoliovaru/content/images/semanas/imagen2.png)
 
 ### Fundamentos de la Tecnología Web
 - La **tecnología web** forma parte de la evolución digital y permite crear aplicaciones que funcionan en navegadores.
@@ -25,7 +25,7 @@
   - **Software Nativo**
   - **Tecnología Web** 
 
-![Imagen3](${process.env.PUBLIC_URL}/content/images/semanas/imagen3.png)
+![Imagen3](/miportafoliovaru/content/images/semanas/imagen3.png)
 
 ### Open Web Platform – Web Abierta
 - Evita el control de una sola empresa.  
@@ -47,19 +47,19 @@
 ### DNS – Sistema de Nombres de Dominio
 - Traduce los nombres de dominio (por ejemplo `www.uncp.edu.pe`) en direcciones IP para que el navegador pueda acceder a los recursos 
 
-![Imagen5](${process.env.PUBLIC_URL}/content/images/semanas/imagen5.png)
+![Imagen5](/miportafoliovaru/content/images/semanas/imagen5.png)
 
 ### FrontEnd y BackEnd
 - **Frontend:** interfaz y experiencia del usuario (HTML, CSS, JavaScript).  
 - **Backend:** lógica, bases de datos y servidores (Python, Java, PHP, Node.js, Ruby, MySQL, PostgreSQL, MongoDB) 
 
-![Imagen4](${process.env.PUBLIC_URL}/content/images/semanas/imagen4.jpg)
+![Imagen4](/miportafoliovaru/content/images/semanas/imagen4.jpg)
 
 ### Diseño UX/UI y Figma
 - **UX:** experiencia del usuario.  
 - **UI:** diseño de la interfaz visual con herramientas como **Figma**, Adobe XD, Gliffy o Balsamiq 
 
-![Imagen9](${process.env.PUBLIC_URL}/content/images/semanas/imagen9.png)
+![Imagen9](/miportafoliovaru/content/images/semanas/imagen9.png)
 
 ---
 
@@ -72,9 +72,9 @@
 4. Uso de **Emmet** para generar código rápido.  
 5. Atajos de teclado en VSC.
 
-![Imagen12](${process.env.PUBLIC_URL}/content/images/semanas/imagen12.png)
+![Imagen12](/miportafoliovaru/content/images/semanas/imagen12.png)
 
-![Imagen10](${process.env.PUBLIC_URL}/content/images/semanas/imagen10.png)
+![Imagen10](/miportafoliovaru/content/images/semanas/imagen10.png)
 
 ---
 
