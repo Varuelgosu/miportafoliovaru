@@ -55,7 +55,7 @@ Todo debía realizarse con **HTML, CSS y JavaScript puro**, sin librerías exter
 - (F9) Con la tecla F, la aplicación pasa a pantalla completa.
 
 
-![Ejercicio1](/content/images/semanas/ejer1.png)
+![Ejercicio1](${process.env.PUBLIC_URL}/content/images/semanas/ejer1.png)
 ---
 
 ### 🔹 Parte 2 — Sorteo aleatorio de equipos
@@ -72,7 +72,7 @@ Todo debía realizarse con **HTML, CSS y JavaScript puro**, sin librerías exter
   - Copiar al portapapeles
   - Copiar en columnas organizadas
 
-![Ejercicio2](/content/images/semanas/ejer2.png)
+![Ejercicio2](${process.env.PUBLIC_URL}/content/images/semanas/ejer2.png)
 
 ---
 

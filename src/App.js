@@ -19,6 +19,7 @@ function App() {
         <div className="content">
           <Routes>
             <Route path="/" element={<Inicio />} />
+            <Route path="/miportafoliovaru" element={<Inicio />} />
             <Route path="/cuaderno" element={<Cuaderno />} />
             <Route path="/cuaderno/:semanaId" element={<Semana />} />
             <Route path="/proyectos" element={<Proyectos />} />

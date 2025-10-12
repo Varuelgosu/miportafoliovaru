@@ -23,7 +23,7 @@ function Inicio() {
           </div>
         </div>
         <div className="hero-image">
-          <img src="/content/images/miimagen.jpg" alt="Varu" />
+          <img src={`${process.env.PUBLIC_URL}/content/images/miimagen.jpg`} alt="Varu" />
         </div>
       </section>
 
@@ -42,7 +42,7 @@ function Inicio() {
 
           <h3>Cursos Relevantes:</h3>
           <ul>
-            <li>Algorítmia y Estructuras de Datos</li>
+            <li>Algorítmica y Estructuras de Datos</li>
             <li>Curso de Redes en Cisco Packet Tracer</li>
             <li>Bases de Datos (SQL Server)</li>
           </ul>
@@ -50,7 +50,7 @@ function Inicio() {
           <h3>Actividades Adicionales:</h3>
           <ul>
             <li>
-              Participante en la proyección social en la implementación de un software para
+              Participante en proyección social en la implementación de un software para
               promover el turismo en la provincia de Chupaca.
             </li>
           </ul>
