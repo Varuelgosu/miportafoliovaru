@@ -1,6 +1,6 @@
-# 🧾 Semana 6 — Componentes en React.js y Comunicación entre Componentes
+#  Semana 6 — Componentes en React.js y Comunicación entre Componentes
 
-## 🧠 Temas aprendidos
+##  Temas aprendidos
 
 Durante la **Semana 6** se profundizó en el funcionamiento interno de **React.js**, enfocándose en la creación, estructura y comunicación de **componentes**, que son la base de toda aplicación construida con este framework.  
 Además, se explicó cómo React actualiza el DOM mediante el **DOM Virtual**, y se revisaron ejemplos prácticos sobre **JSX, props, children** y **estilos**.  
@@ -9,7 +9,7 @@ La clase combinó teoría guiada y práctica conceptual, culminando con el desar
 
 ---
 
-## ⚛️ Concepto de Componente en React
+##  Concepto de Componente en React
 
 Un **componente** es una pieza reutilizable de código que representa una parte de la interfaz de usuario (UI).  
 Cada componente puede tener su propio HTML, CSS y JavaScript integrados.
@@ -28,7 +28,7 @@ Esta función toma dos argumentos:
 
 ---
 
-## 🧩 Renderizado y Virtual DOM
+##  Renderizado y Virtual DOM
 
 React no manipula el DOM real directamente; en su lugar:
 - Crea una copia virtual del DOM (Virtual DOM).
@@ -39,7 +39,7 @@ React no manipula el DOM real directamente; en su lugar:
 
 ---
 
-## 💻 Creación de Componentes
+##  Creación de Componentes
 
 ### 🔹 Componente de Clase
 
@@ -65,11 +65,11 @@ function ComponentHeader() {
 }
 export default ComponentHeader;
 ```
-📁 Los componentes suelen almacenarse dentro de la carpeta src/components/.
+ Los componentes suelen almacenarse dentro de la carpeta src/components/.
 
 ---
 
-## 🧠 JSX — JavaScript + XML
+##  JSX — JavaScript + XML
 
 JSX es una extensión de JavaScript que permite escribir código similar a HTML dentro de los archivos .js o .jsx.  
 Es transpilado a JavaScript puro por Babel antes de ser ejecutado.
@@ -97,7 +97,7 @@ return (
 
 ---
 
-## 🧩 Renderizado Condicional y Listas
+##  Renderizado Condicional y Listas
 
 ### 🔹 Operador Ternario
 ```jsx
@@ -125,7 +125,7 @@ return (
 
 ---
 
-## 🧩 Estilos en Componentes
+##  Estilos en Componentes
 
 React permite aplicar estilos de tres maneras:
 
@@ -148,7 +148,7 @@ import estilos from "./Card.module.css";
 
 ---
 
-## 🧩 Props y Children
+##  Props y Children
 
 ### 🔹 Props
 
@@ -183,7 +183,7 @@ function Card({ children }) {
 
 ---
 
-## 🧠 Comunicación entre Componentes
+##  Comunicación entre Componentes
 
 React permite el intercambio de datos entre distintos componentes:
 
@@ -205,7 +205,7 @@ function Padre() {
 
 ---
 
-## 💅 Integración con TailwindCSS
+##  Integración con TailwindCSS
 
 También se revisó cómo aplicar TailwindCSS en proyectos React para un diseño más rápido:
 
@@ -231,11 +231,11 @@ Esto permite usar clases como:
 
 ---
 
-## 🧪 Tarea — Implementación de Componentes en React
+##  Tarea — Implementación de Componentes en React
 
 Al finalizar la teoría, se dejó una tarea práctica, donde los estudiantes aplicaron los conceptos de componentes, props y comunicación entre ellos.
 
-**🎯 Objetivos:**
+** Objetivos:**
 - Crear una aplicación React responsiva para PC, Tablet y móvil con 7 componentes (uno por sección).  
   Cada componente debía tener su propio diseño en CSS puro.
 
@@ -265,7 +265,7 @@ Al finalizar la teoría, se dejó una tarea práctica, donde los estudiantes apl
 
 ---
 
-## 🧩 Habilidades desarrolladas
+##  Habilidades desarrolladas
 
 - Comprensión completa del modelo de componentes en React.
 - Uso de JSX para renderizar contenido dinámico.
@@ -276,7 +276,7 @@ Al finalizar la teoría, se dejó una tarea práctica, donde los estudiantes apl
 
 ---
 
-## 💭 Reflexión
+##  Reflexión
 
 **¿Qué aprendí?**  
 Aprendí a estructurar aplicaciones React en módulos reutilizables y entender cómo los componentes interactúan entre sí mediante props y estados.  
@@ -287,7 +287,3 @@ Mediante el análisis teórico, los ejemplos guiados y el desarrollo de la tarea
 
 ---
 
-## 🧩 Conclusión
-
-La Semana 6 consolidó el aprendizaje sobre los componentes de React, su comunicación y su estructura.  
-Esta base permitirá en las próximas semanas trabajar con hooks, estados y rutas, elevando el nivel de interactividad y complejidad de las aplicaciones web construidas con React.js.
