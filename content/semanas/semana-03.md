@@ -77,7 +77,7 @@ El objetivo de esta primera práctica fue construir una interfaz web completa co
   - El texto del label se desplaza hacia arriba.
   - Cambia de color el texto y la línea inferior de blanco a celeste agua.
 
- ![Page01](/content/images/semanas/page01.png)
+ ![Page01](${process.env.PUBLIC_URL}/content/images/semanas/page01.png)
 
 ### 🔹 Parte 3: page02.html — Card interactivo de color
 - Se debía diseñar un card dividido en dos partes:
@@ -85,7 +85,7 @@ El objetivo de esta primera práctica fue construir una interfaz web completa co
   - Parte inferior: tres sliders y tres text fields numéricos (0–255) que modifican dinámicamente el color mostrado.
 - Todo debía implementarse solo con HTML y CSS puro, sin JavaScript ni librerías adicionales.
 
- ![Page02](/content/images/semanas/page02.png)
+ ![Page02](${process.env.PUBLIC_URL}/content/images/semanas/page02.png)
 
 ### 🔹 Parte 4: page03.html — Página con imágenes y diseño responsivo
 - Diseñar una página con texto, fondo, colores e imágenes similares al ejemplo proporcionado.
@@ -105,7 +105,7 @@ El objetivo de esta primera práctica fue construir una interfaz web completa co
 - Cada card tenía un título (“Page 1”, “Page 2”, “Page 3”).
 - Animación: giro de 180° sobre el eje horizontal (incluyendo eje vertical), creando un efecto 3D al pasar el cursor.
 
-  ![Page03](/content/images/semanas/page03.png)
+  ![Page03](${process.env.PUBLIC_URL}/content/images/semanas/page03.png)
 
 ---
 
@@ -124,7 +124,7 @@ Esta práctica fue una continuación de la anterior, pero utilizando Tailwind CS
 - < 700px → 100%
 - 701px–1399px → 50%
 
-  ![Page001](/content/images/semanas/page001.png)
+  ![Page001](${process.env.PUBLIC_URL}/content/images/semanas/page001.png)
 
 ### 🔹 Parte 2: page02.html — Cards de playas y ciudades del Perú
 **a. Cards de Playas:**
@@ -139,21 +139,21 @@ Esta práctica fue una continuación de la anterior, pero utilizando Tailwind CS
 - Botón Full Report con efecto hover similar.
 - Separación de 5px entre cards.
 
- ![Page002](/content/images/semanas/page002.png)
+ ![Page002](${process.env.PUBLIC_URL}/content/images/semanas/page002.png)
 
 ### 🔹 Parte 3: page03.html — Galería responsiva
 - Página con imágenes y textos distribuidos con Flexbox y Tailwind.
 - Al colocar el cursor sobre una imagen, su opacidad aumentaba un 15%.
 - Diseño responsivo con media queries en los mismos rangos de tamaño.
 
- ![Page003](/content/images/semanas/page003.png)
+ ![Page003](${process.env.PUBLIC_URL}/content/images/semanas/page003.png)
 
 ### 🔹 Parte 4: index.html — Página principal animada
 - Página en HTML y CSS puro, con 3 cards animados enlazando a page1.html, page2.html y page3.html.
 - Animación con rotación de 180° sobre los ejes horizontal y vertical.
 - Estilo limpio y moderno.
 
- ![Page004](/content/images/semanas/page004.png)
+ ![Page004](${process.env.PUBLIC_URL}/content/images/semanas/page004.png)
 
 ---
 

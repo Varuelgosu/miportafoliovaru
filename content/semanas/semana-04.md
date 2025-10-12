@@ -35,7 +35,7 @@ let activo = true;
 let numeros = [1, 2, 3];
 let persona = { nombre: "Varu", edad: 21 };
 ```
- ![Varu1](/content/images/semanas/varu1.png)
+ ![Varu1](${process.env.PUBLIC_URL}/content/images/semanas/varu1.png)
 
 
 🔹 Operadores y Condicionales
@@ -51,7 +51,7 @@ if (nota >= 14) {
 ```
 También se revisaron los operadores aritméticos, lógicos (&&, ||, !) y de comparación (==, ===, >, <).
 
-![Varu2](/content/images/semanas/varu2.png)
+![Varu2](${process.env.PUBLIC_URL}/content/images/semanas/varu2.png)
 
 🔹 Bucles (for, while, do while)
 
@@ -60,7 +60,7 @@ for (let i = 1; i <= 5; i++) {
   console.log("Iteración:", i);
 }
 ```
-![Varu3](/content/images/semanas/varu3.png)
+![Varu3](${process.env.PUBLIC_URL}/content/images/semanas/varu3.png)
 
 🔹 Funciones
 
@@ -71,7 +71,7 @@ function saludar(nombre) {
 console.log(saludar("Varu"));
 ```
 
-![Varu4](/content/images/semanas/varu4.png)
+![Varu4](${process.env.PUBLIC_URL}/content/images/semanas/varu4.png)
 
 🔹 Manipulación del DOM  
 El DOM representa la estructura del documento HTML.  
@@ -81,7 +81,7 @@ Podemos seleccionar y modificar elementos:
 document.getElementById("titulo").innerText = "Texto modificado";
 ```
 
-![Varu5](/content/images/semanas/varu5.png)
+![Varu5](${process.env.PUBLIC_URL}/content/images/semanas/varu5.png)
 
 🔹 Eventos y Manejadores  
 Permiten responder a acciones del usuario.
@@ -94,7 +94,7 @@ Permiten responder a acciones del usuario.
   });
 </script>
 ```
-![Varu6](/content/images/semanas/varu6.png)
+![Varu6](${process.env.PUBLIC_URL}/content/images/semanas/varu6.png)
 
 🔹 JSON y Almacenamiento Local  
 Para guardar información en el navegador:
@@ -105,7 +105,7 @@ let user = localStorage.getItem("usuario");
 console.log(user);
 ```
 
-![Varu7](/content/images/semanas/varu7.png)
+![Varu7](${process.env.PUBLIC_URL}/content/images/semanas/varu7.png)
 
 🔹 Depuración y Uso de la Consola  
 El uso de console.log() y debugger facilita el seguimiento del flujo del código.
@@ -128,9 +128,9 @@ Permite dibujar directamente en una página.
   ctx.fillRect(20, 20, 150, 50);
 </script>
 ```
-![Ga1](/content/images/semanas/ga1.png)
+![Ga1](${process.env.PUBLIC_URL}/content/images/semanas/ga1.png)
 
-![Ga2](/content/images/semanas/ga2.png)
+![Ga2](${process.env.PUBLIC_URL}/content/images/semanas/ga2.png)
 
 🔹 Programación Orientada a Objetos
 
@@ -146,7 +146,7 @@ class Persona {
 const varu = new Persona("Varu");
 varu.saludar();
 ```
-![Ga3](/content/images/semanas/ga3.png)
+![Ga3](${process.env.PUBLIC_URL}/content/images/semanas/ga3.png)
 
 🔹 DOM Avanzado y Elementos Dinámicos
 
@@ -155,7 +155,7 @@ const nuevoDiv = document.createElement("div");
 nuevoDiv.textContent = "Elemento nuevo";
 document.body.appendChild(nuevoDiv);
 ```
-![Ga4](/content/images/semanas/ga4.png)
+![Ga4](${process.env.PUBLIC_URL}/content/images/semanas/ga4.png)
 
 🔹 Promesas y Async/Await  
 Permiten manejar tareas asincrónicas como llamadas a APIs.
