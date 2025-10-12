@@ -13,7 +13,7 @@ Las exposiciones combinaron teoría, práctica y demostraciones en código real.
 
 El **HTML (HyperText Markup Language)** es el lenguaje que define la estructura del contenido de una página web.
  
-![Imagen6](${process.env.PUBLIC_URL}/content/images/semanas/imagen6.png)
+![Imagen6](/miportafoliovaru/content/images/semanas/imagen6.png)
 
 ### 🔹 Estructura básica de un documento HTML
 ```html
@@ -99,7 +99,7 @@ Podemos cambiar la forma en que se muestra el texto con etiquetas de formato:
 
 Los grupos explicaron también funcionalidades avanzadas de HTML5, esenciales para construir aplicaciones modernas.
 
-![Imagen7](${process.env.PUBLIC_URL}/content/images/semanas/imagen7.png)
+![Imagen7](/miportafoliovaru/content/images/semanas/imagen7.png)
 🔹 Elementos y atributos globales
 
 ```html
@@ -132,7 +132,7 @@ Los grupos explicaron también funcionalidades avanzadas de HTML5, esenciales pa
   <input type="submit" value="Enviar" />
 </form>
 ```
-![Imagen8](${process.env.PUBLIC_URL}/content/images/semanas/imagen8.png)
+![Imagen8](/miportafoliovaru/content/images/semanas/imagen8.png)
 
 🔹 APIs de HTML5
 
@@ -286,27 +286,27 @@ Durante esta semana se realizaron prácticas como:
 
 🔹 1. Página HTML con encabezados, listas, enlaces e imágenes
 
-![Html1](${process.env.PUBLIC_URL}/content/images/semanas/html1.png)
-![Html2](${process.env.PUBLIC_URL}/content/images/semanas/html2.png)
+![Html1](/miportafoliovaru/content/images/semanas/html1.png)
+![Html2](/miportafoliovaru/content/images/semanas/html2.png)
 
 🔹 2. Tabla de datos con estilos CSS básicos
 
-![Html3](${process.env.PUBLIC_URL}/content/images/semanas/html3.png)
+![Html3](/miportafoliovaru/content/images/semanas/html3.png)
 
 🔹 3. Formulario de contacto básico
 
-![Html4](${process.env.PUBLIC_URL}/content/images/semanas/html4.png)
+![Html4](/miportafoliovaru/content/images/semanas/html4.png)
 
 🔹 4. Ejercicios con Bootstrap Grid
 
-![Html5](${process.env.PUBLIC_URL}/content/images/semanas/html5.png)
-![Html6](${process.env.PUBLIC_URL}/content/images/semanas/html6.png)
+![Html5](/miportafoliovaru/content/images/semanas/html5.png)
+![Html6](/miportafoliovaru/content/images/semanas/html6.png)
 
 🔹 5. Experimentación con clases utilitarias de Tailwind
 
-![Html7](${process.env.PUBLIC_URL}/content/images/semanas/html7.png)
-![Html8](${process.env.PUBLIC_URL}/content/images/semanas/html8.png)
-![Html9](${process.env.PUBLIC_URL}/content/images/semanas/html9.png)
+![Html7](/miportafoliovaru/content/images/semanas/html7.png)
+![Html8](/miportafoliovaru/content/images/semanas/html8.png)
+![Html9](/miportafoliovaru/content/images/semanas/html9.png)
 
 ---
 

@@ -1,4 +1,4 @@
-# 🌐 Portafolio Varu
+#  Portafolio Varu
 
 Este es mi portafolio personal, desarrollado con **React**, donde documento mi proceso de aprendizaje en el curso **Desarrollo de Aplicaciones Web**.  
 Aquí encontrarás mi cuaderno de trabajo, proyectos, reflexión final y bibliografía, organizados semana a semana.
@@ -7,7 +7,7 @@ Aquí encontrarás mi cuaderno de trabajo, proyectos, reflexión final y bibliog
 
 ---
 
-## 🚀 Cómo Ejecutarlo en Local
+##  Cómo Ejecutarlo en Local
 
 Si deseas ver este portafolio en tu computadora:
 
@@ -53,7 +53,7 @@ miportafoliovaru/
 
 ---
 
-## ✏️ Contenido del Portafolio
+##  Contenido del Portafolio
 
 - **Cuaderno:** contiene las semanas del curso desde la Semana 1 hasta la Semana 8 (por ahora).  
   Cada semana incluye teoría, práctica, ejercicios e imágenes de desarrollo.
@@ -68,14 +68,14 @@ miportafoliovaru/
 
 ---
 
-## 🌱 Próximas Actualizaciones
+##  Próximas Actualizaciones
 
-- ✅ Hasta el momento: contenido completo hasta la **Semana 8**.
-- 🛠️ Próximamente: se agregarán las **Semanas 9 a 16**, con nuevas prácticas, reflexiones y mejoras visuales en el diseño.
+-  Hasta el momento: contenido completo hasta la **Semana 8**.
+-  Próximamente: se agregarán las **Semanas 9 a 16**, con nuevas prácticas, reflexiones y mejoras visuales en el diseño.
 
 ---
 
-## 🌐 Publicación en GitHub Pages
+##  Publicación en GitHub Pages
 
 Para desplegar este portafolio en línea:
 
@@ -101,7 +101,7 @@ Para desplegar este portafolio en línea:
 
 ---
 
-## 💻 Tecnologías Utilizadas
+##  Tecnologías Utilizadas
 
 - React 18
 - React Router DOM
@@ -110,7 +110,7 @@ Para desplegar este portafolio en línea:
 
 ---
 
-## 🎨 Estilo y Personalización
+##  Estilo y Personalización
 
 Los estilos se encuentran en `src/App.css`.  
 **Paleta de colores actual:**
@@ -124,4 +124,4 @@ Puedo seguir modificando los colores, fuentes e íconos para mantener una aparie
 ---
 
 Desarrollado por **Elvis Gutierrez**  
-📆 Año académico 2025
+ Año académico 2025

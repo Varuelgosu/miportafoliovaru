@@ -239,7 +239,7 @@ Al finalizar la teoría, se dejó una tarea práctica, donde los estudiantes apl
 - Crear una aplicación React responsiva para PC, Tablet y móvil con 7 componentes (uno por sección).  
   Cada componente debía tener su propio diseño en CSS puro.
 
-  ![Sem1](${process.env.PUBLIC_URL}/content/images/semanas/sem1.png)
+  ![Sem1](/miportafoliovaru/content/images/semanas/sem1.png)
 
 - Desarrollar 4 componentes anidados (Componente1 → Componente2 → Componente3 → Componente4).
 
@@ -249,19 +249,19 @@ Al finalizar la teoría, se dejó una tarea práctica, donde los estudiantes apl
   ```
   desde el Componente1 hasta el Componente4 y mostrarlo en un card.
 
-![Sem2](${process.env.PUBLIC_URL}/content/images/semanas/sem2.png)
+![Sem2](/miportafoliovaru/content/images/semanas/sem2.png)
 
 - Crear una aplicación con 2 componentes (padre e hijo), donde el hijo enviara datos al padre, y el padre los renderizara en pantalla.
 
-![Sem3](${process.env.PUBLIC_URL}/content/images/semanas/sem3.png)
+![Sem3](/miportafoliovaru/content/images/semanas/sem3.png)
 
 - Construir 3 componentes (padre y dos hijos), enviando datos del hermano1 al hermano2 mediante el padre.
 
-![Sem4](${process.env.PUBLIC_URL}/content/images/semanas/sem4.png)
+![Sem4](/miportafoliovaru/content/images/semanas/sem4.png)
 
 - Diseñar una tabla en React que renderice un objeto de 4 estudiantes (id, nombre, ciudad) con estilos en CSS.
 
-![Sem5](${process.env.PUBLIC_URL}/content/images/semanas/sem5.png)
+![Sem5](/miportafoliovaru/content/images/semanas/sem5.png)
 
 ---
 
