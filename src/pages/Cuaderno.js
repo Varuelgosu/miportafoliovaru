@@ -11,8 +11,15 @@ function Cuaderno() {
     { id: 'semana-06', numero: '06', titulo: 'Semana 06', descripcion: 'Contenido y ejercicios de la semana 6' },
     { id: 'semana-07', numero: '07', titulo: 'Semana 07', descripcion: 'Contenido y ejercicios de la semana 7' },
     { id: 'semana-08', numero: '08', titulo: 'Semana 08', descripcion: 'Contenido y ejercicios de la semana 8' },
+    { id: 'semana-09', numero: '09', titulo: 'Semana 09', descripcion: 'Contenido y ejercicios de la semana 9' },
+    { id: 'semana-10', numero: '10', titulo: 'Semana 10', descripcion: 'Contenido y ejercicios de la semana 10' },
+    { id: 'semana-11', numero: '11', titulo: 'Semana 11', descripcion: 'Contenido y ejercicios de la semana 11' },
+    { id: 'semana-12', numero: '12', titulo: 'Semana 12', descripcion: 'Contenido y ejercicios de la semana 12' },
+    { id: 'semana-13', numero: '13', titulo: 'Semana 13', descripcion: 'Contenido y ejercicios de la semana 13' },
+    { id: 'semana-14', numero: '14', titulo: 'Semana 14', descripcion: 'Contenido y ejercicios de la semana 14' },
+    { id: 'semana-15', numero: '15', titulo: 'Semana 15', descripcion: 'Contenido y ejercicios de la semana 15' },
+    { id: 'semana-16', numero: '16', titulo: 'Semana 16', descripcion: 'Contenido y ejercicios de la semana 16' },
   ];
-
   return (
     <div className="container">
       <div className="page-header">
