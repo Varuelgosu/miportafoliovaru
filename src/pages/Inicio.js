@@ -18,7 +18,7 @@ function Inicio() {
               Ver Proyectos
             </Link>
             <Link to="/cuaderno" className="btn btn-secondary">
-              Semanas 1-8
+              Semanas 1-16
             </Link>
           </div>
         </div>
